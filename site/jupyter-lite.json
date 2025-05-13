@@ -1,10 +1,11 @@
 {
   "jupyter-lite-schema-version": 0,
-  "jupyter-config-data": {
-    "litePluginSettings": {
-      "load_extensions": {
-        "jupyterlite-plugin-send-answer": true
-      }
+  "litePluginSettingsOverrides": {},
+  "disabledExtensions": [],
+  "federated_extensions": [
+    {
+      "name": "jupyterlite-plugin-send-answer",
+      "load": "./plugins/jupyterlite-plugin-send-answer.js"
     }
-  }
+  ]
 }
