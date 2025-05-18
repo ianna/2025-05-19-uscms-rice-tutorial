@@ -1,6 +1,6 @@
 # Tutorial on columnar analysis at US-CMS on May 19, 2025 at Rice
 
-Click on this link:
+<!----- Click on this link:
 
 <p align="center">
   <a href="https://ianna.github.io/2025-05-19-uscms-rice-tutorial/lab/index.html?path=student.ipynb">
@@ -8,5 +8,5 @@ Click on this link:
   </a>
 </p>
 
-to open your student notebook in JupyterLite.
+to open your student notebook in JupyterLite. --->
 
