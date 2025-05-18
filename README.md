@@ -1,4 +1,4 @@
-# Tutorial on columnar analysis at US-CMS on May 19, 2025 at Rice
+# Tutorial on columnar analysis at US-CMS on May 19, 2025, at Rice
 
 <!----- Click on this link:
 
