@@ -1,0 +1,20 @@
+Either keep the number of dimensions intact (the first dimension has length 1):
+array3d[:1, :, 2:]
+
+array([[[ 2,  3,  4],
+        [ 7,  8,  9],
+        [12, 13, 14]]])
+
+or reduce that dimension:
+array3d[0, :, 2:]
+
+array([[ 2,  3,  4],
+       [ 7,  8,  9],
+       [12, 13, 14]])
+
+These are different answers to the question, but both are fine.
+
+
+
+
+
