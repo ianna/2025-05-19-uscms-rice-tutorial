@@ -10,3 +10,9 @@
 
 to open your student notebook in JupyterLite. --->
 
+## Acknowledgements
+<div>
+<img src="img/NSF%20logo.png" width="60" align="left"/>
+</div>
+
+Support for this work was provided by NSF cooperative agreements [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) and [PHY-2323298](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323298) (IRIS-HEP).
